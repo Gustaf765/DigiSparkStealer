@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 
-class SendMail:
+class SendMail:gustaf.angser@outlook.com
     def __init__(self, _source_mail, _source_pass, _dest_mail, files):
         self.source_mail = _source_mail
         self.source_pass = _source_pass
